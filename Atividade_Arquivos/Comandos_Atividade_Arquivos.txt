@@ -1,0 +1,69 @@
+1
+101
+Stranger Things
+Serie
+50
+
+1
+102
+Breaking Bad
+Serie
+47
+
+1
+103
+Interestelar
+Filme
+169
+
+2
+1
+Joao Silva
+2
+101
+103
+
+2
+2
+Maria Souza
+3
+101
+102
+103
+
+3
+
+4
+
+5
+102
+
+6
+103
+Interestelar - Edicao Especial
+Ficcao Cientifica
+170
+
+7
+1
+Joao da Silva
+3
+101
+102
+103
+
+10
+
+8
+102
+
+9
+2
+
+3
+
+4
+
+10
+
+0
